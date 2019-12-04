@@ -1,1 +1,1 @@
-echo "welcome to the Git Hub training"
+echo "welcome to the Git Hub training - modified file"
